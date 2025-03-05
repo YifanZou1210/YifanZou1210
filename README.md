@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Vue, Python, Java**
 
-- 📫 How to reach me **zouyifan123456789@gmail.com**
+- 📫 How to reach me **<zouyifan123456789@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yvettezou1210&show_icons=true&theme=gruvbox&locale=en" alt="yvettezou1210" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yvettezou1210&" alt="yvettezou1210" /></p>
-
