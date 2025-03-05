@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Movement</title>
-  <style>
-    @keyframes moveImage {
-      0% {
-        transform: translateX(0);
-      }
-      50% {
-        transform: translateX(100%);
-      }
-      100% {
-        transform: translateX(0);
-      }
-    }
-
-    .moving-image {
-      animation: moveImage 1s ease-in-out infinite;
-    }
-
-  </style>
-</head>
-<body>
 <h1 align="center">Hi 👋, I'm Even Zou</h1>
 <!-- Typing Text -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yvettezou1210&label=Profile%20views&color=0e75b6&style=flat" alt="yvettezou1210" /> </p>
@@ -100,5 +74,3 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com)😂:
 </div>
 
 <hr>
-</body>
-</html>
