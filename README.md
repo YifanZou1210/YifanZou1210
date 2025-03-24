@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Even Zou</h1>
 <!-- Typing Text -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yvettezou1210&label=Profile%20views&color=0e75b6&style=flat" alt="yvettezou1210" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YifanZou1210&label=Profile%20views&color=0e75b6&style=flat" alt="YifanZou1210" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+I'm+a+Full+Stack+Developer.">
 </p>
@@ -12,9 +12,9 @@
 
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YifanZou1210" alt="yvettezou1210" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YifanZou1210" alt="YifanZou1210" /></a> </p>
 
-- 🔭 I’m currently working on [MiniReact](https://github.com/YvetteZou1210/MiniReact)
+- 🔭 I’m currently working on [MiniReact](https://github.com/YifanZou1210/MiniReact)
 
 - 🌱 I’m currently learning **Advanced React, ReactNative, Express, Testing and SpringCloud**
 
@@ -30,9 +30,9 @@
   <br/>
 </div>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yvettezou1210&show_icons=true&locale=en&layout=compact" alt="yvettezou1210" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YifanZou1210&show_icons=true&locale=en&layout=compact" alt="YifanZou1210" /></p>
 
-<p>&nbsp;<img align="center" style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=yvettezou1210&show_icons=true&theme=gruvbox&locale=en" alt="yvettezou1210" /></p>
+<p>&nbsp;<img align="center" style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=YifanZou1210&show_icons=true&theme=gruvbox&locale=en" alt="YifanZou1210" /></p>
 <hr>
 </div>
 <!-- ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true) -->
