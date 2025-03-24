@@ -12,7 +12,7 @@
 
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yvettezou1210" alt="yvettezou1210" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YifanZou1210" alt="yvettezou1210" /></a> </p>
 
 - 🔭 I’m currently working on [MiniReact](https://github.com/YvetteZou1210/MiniReact)
 
