@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Even Zou</h1>
+<h1 align="center">Hi 👋, I'm Evan Zou</h1>
 <!-- Typing Text -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YifanZou1210&label=Profile%20views&color=0e75b6&style=flat" alt="YifanZou1210" /> </p>
 <p align="center">
@@ -29,10 +29,10 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
+
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YifanZou1210&show_icons=true&locale=en&layout=compact" alt="YifanZou1210" /></p>
 
-<p>&nbsp;<img align="center" style="width:400px;" src="https://github-readme-stats.vercel.app/api?username=YifanZou1210&show_icons=true&theme=gruvbox&locale=en" alt="YifanZou1210" /></p>
 <hr>
 </div>
 <!-- ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true) -->
