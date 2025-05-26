@@ -12,7 +12,11 @@
 
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YifanZou1210" alt="YifanZou1210" /></a> </p>
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=YifanZou1210&theme=onedark&row=1&column=7" alt="YifanZou1210" />
+</a> 
+</p>
 
 - 🔭 I’m currently working on [MiniReact](https://github.com/YifanZou1210/MiniReact)
 
