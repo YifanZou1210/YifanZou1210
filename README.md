@@ -18,15 +18,19 @@
 </a> 
 </p>
 
-- 🔭 I’m currently working on [MiniReact](https://github.com/YifanZou1210/MiniReact)
+- I’m currently working on below projects for self enhancements or organization builds:
 
-- 🌱 I’m currently learning **Advanced React, ReactNative, Express, Testing and SpringCloud**
+  - [MiniReact](https://github.com/YifanZou1210/MiniReact)
+  - [BackendPractice](https://github.com/YifanZou1210/BackEndPractice)
+  - [JavaPractice](https://github.com/YifanZou1210/Java-Practice)
 
-- 👯 I’m looking to collaborate on [1 Thing Against Racism Org.](https://github.com/1thing-org)
+- I’m currently learning **Java, Spring EcoSystem and MERN Stack** and passionate to dive deeper into **System Design, backend architecture, AI and ML**
 
-- 💬 Ask me about **React, Vue, Python, Java**
+- I’m looking to collaborate on [1 Thing Against Racism Org.](https://github.com/1thing-org) and [Rise2Gether](https://github.com/RISE2GETHER-ENG)
 
-- 📫 How to reach me **<zouyifan123456789@gmail.com>**
+- Ask me about **Java,React, Python, Vue**,I'd love to have a coffee chat together!
+
+- How to reach me? Feel free to reach out me through **<zouyifan123456789@gmail.com>** or **<even.zou@outlook.com>**
 
 <div align="center">
   <br>
